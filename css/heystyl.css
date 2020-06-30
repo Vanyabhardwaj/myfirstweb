@@ -1,0 +1,36 @@
+body{
+  margin:0;
+  text-align: center;
+  background-color: white;
+
+}
+h1{
+  color:#b0e006;
+  font-family: cursive;
+  font-size: 70px;
+}
+p{
+  color: green;
+  font-size: 50px;
+}
+h2{
+  color: olive;
+  font-size: 60px;
+}
+img{
+  width:500px;
+  height: auto;
+}
+hr{
+  border-color:gray;
+  border-style: none;
+  border-top-style: dotted;
+  border-width:8px;
+  width: 7%;
+}
+.lef-ye{
+  position: absolute;
+  left: 100px;
+  top: 240px;
+  width: 300px;
+}
